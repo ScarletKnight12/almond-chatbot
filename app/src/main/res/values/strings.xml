@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Chat Bot</string>
+    <string name="action_settings">Settings</string>
+    <string name="sos_text">Send SOS</string>
+    <string name="sms_text">Send SMS</string>
+    <string name="call_text"> Call</string>
+    <string name="reminder_text"> Set Reminder</string>
+    <string name="sosclick">SOS</string>
+    <string name="smsclick">SMS</string>
+    <string name="callclick">Call </string>
+    <string name="reminderclick">Set </string>
+    <string name="stopclick">Stop </string>
+    <string name="recognizer">Recognizer not present.</string>
+    <string name="MusicButton">Go</string>
+    <string name="chatbot_btn">Talk to Almond :)</string>
+
+    <string name="music_text">Play songs or audio books</string>
+    <string name="audio_book_button">AUDIO BOOK</string>
+    <string name="Resume_button">PLAY</string>
+    <string name="button2">PAUSE</string>
+    <string name="button">WHICH SONG?</string>
+
+    <string name="txt2">Almond</string>
+    <string name="txt1">User</string>
+
+    <string name="speak">Touch to talk</string>
+    <string name="alarm_btn">Alarm</string>
+    <string name="txt_alarm">Set Alarm</string>
+    <string name="speak_btn">HEAR</string>
+</resources>
